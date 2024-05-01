@@ -1,10 +1,7 @@
-/* styles.css */
-
-/* Global Styles */
 body {
-    font-family: 'Raleway', sans-serif;
-    background-color: #f5f5f5;
-    color: #333;
+    font-family: 'RALEWAY', sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 .container {
@@ -13,21 +10,16 @@ body {
     padding: 20px;
 }
 
-.buttons {
-    margin-top: 20px;
-}
 
-/* Header Styles */
 h1 {
-    font-family: 'Orbitron', sans-serif;
-    color: #c0392b;
+    font-family: 'ORBITRON', sans-serif;
+    color: #C0392B;
 }
 
 .lead {
     font-size: 1.5em;
 }
 
-/* Button Styles */
 .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -36,26 +28,26 @@ h1 {
     border-radius: 3px;
     cursor: pointer;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 .btn-danger {
-    background-color: #c0392b;
-    color: #fff;
+    background-color: #C0392B;
+    color: #FFFFFF;
 }
 
 .btn-primary {
-    background-color: #2980b9;
-    color: #fff;
+    background-color: #C0392B;
+    color: #FFFFFF;
 }
 
-/* Example Styles */
 .example {
     margin-top: 40px;
 }
 
 .example pre {
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
     padding: 10px;
     overflow-x: auto;
 }
@@ -68,7 +60,6 @@ h1 {
     margin-top: 20px;
 }
 
-/* Footer Styles */
 .footer {
     margin-top: 40px;
 }
@@ -80,4 +71,3 @@ h1 {
 .pull-right {
     float: right;
 }
-
